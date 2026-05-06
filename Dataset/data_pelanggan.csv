@@ -1,0 +1,16 @@
+id_pelanggan,batas_kredit,pendapatan,jumlah_dewasa,jumlah_anak,usia,suhu_rata_rata,tipe_hunian,jenis_bahan_bakar,ac_sentral,konsumsi_minyak_pemanas,pemanas_air_gas,sistem_air_panas,luas_bangunan
+1,100,50000,2,0,35,25.5,,Gas,Yes,,1,1,1500
+2,150,75000,3,1,45,15.2,Apartment,,No,800.0,0,0,2500
+3,120,55000,2,0,38,22.1,House,Gas,Yes,500.0,1,1,1600
+4,200,90000,4,2,55,8.9,Condo,Electric,No,1200.0,0,0,3000
+5,160,80000,3,1,42,12.5,House,Oil,Yes,700.0,1,1,2000
+6,110,52000,2,0,36,23.0,Apartment,Gas,No,450.0,0,0,1550
+7,210,95000,4,2,58,7.5,House,Electric,Yes,1500.0,1,1,3200
+8,170,82000,3,1,48,10.1,Condo,Oil,No,900.0,0,0,2200
+9,130,58000,2,0,39,20.0,House,Gas,Yes,550.0,1,1,1700
+10,220,93000,4,2,50,9.5,Apartment,Electric,No,1300.0,0,0,2800
+11,250,150000,5,3,65,5.0,House,Oil,Yes,2500.0,1,1,4000
+12,90,40000,1,0,28,30.0,Condo,Gas,No,300.0,0,0,1200
+13,180,70000,3,1,40,18.0,House,Electric,Yes,1000.0,1,1,2300
+14,140,65000,2,0,33,14.0,Apartment,Oil,No,600.0,0,0,1800
+15,190,88000,4,2,52,11.0,House,Gas,Yes,1100.0,1,1,2900
